@@ -33,6 +33,11 @@ header section ul li {
     margin-left: 25px;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 /* Footer code*/
 footer {
     padding: 30px;
