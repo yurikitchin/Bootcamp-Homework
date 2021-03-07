@@ -25,7 +25,7 @@ header section {
 }
 
 
-header section ul li {
+header section nav li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
