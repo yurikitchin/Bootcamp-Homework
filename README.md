@@ -14,7 +14,7 @@
 Refactored code
 ![](2021-03-07-14-02-08.png)
 </p>
-<p>2. chavge div class content to main class content, to reflect main section of html, Alt attributes were also added to the img's to meet accessability standards.
+<p>2. chavge div class content to main class content, to reflect main section of html, Alt attributes were also added to the img's to meet accessability standards.<br>
 Original code
 ![](2021-03-07-14-08-42.png)
 ![](2021-03-07-14-08-55.png)
@@ -24,20 +24,20 @@ Refactored code
 ![](2021-03-07-14-09-53.png)
 ![](2021-03-07-14-10-06.png)
 </p> 
-<p>3. change dis class benefits, to an aside to represent the side bar, also added null alt attributes to the decorative imgs on all 3 sections.
+<p>3. change dis class benefits, to an aside to represent the side bar, also added null alt attributes to the decorative imgs on all 3 sections.<br>
 Original code
 ![](2021-03-07-14-13-26.png)
 Refactored code
 ![](2021-03-07-14-14-26.png)
 </p>
-<p>4. changed div class footer, to footer element
+<p>4. changed div class footer, to footer element<br>
 original code
 ![](2021-03-07-14-16-45.png)
 refactored code
 ![](2021-03-07-14-17-11.png)
 </p>
 
-<p>5. fixed broken link for serach engine optimization, div was incorrectly labbeled as a class instead of an ID.
+<p>5. fixed broken link for serach engine optimization, div was incorrectly labbeled as a class instead of an ID.<br>
 Original code
 ![](2021-03-07-14-19-16.png)
 ![](2021-03-07-14-19-40.png)
