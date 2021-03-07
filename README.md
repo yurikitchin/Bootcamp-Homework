@@ -8,8 +8,8 @@
 <h2> Method </h2>
 <p>1. The first step was, starting from the top, to rename the div classes to accurately reflect their function
 
- change the div class="header", to the header element, add a section, and change ul to nav
- Original cod
+ change the div class="header", to the header element, add a section, and change ul to nav<br>
+ Original code
 ![](2021-03-07-13-59-57.png)
 Refactored code
 ![](2021-03-07-14-02-08.png)
