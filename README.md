@@ -10,40 +10,59 @@
 
  change the div class="header", to the header element, add a section, and change ul to nav<br>
  Original code
+
 ![](2021-03-07-13-59-57.png)
+
 Refactored code
+
 ![](2021-03-07-14-02-08.png)
+
 </p>
 <p>2. chavge div class content to main class content, to reflect main section of html, Alt attributes were also added to the img's to meet accessability standards.<br>
-Original code
-![](2021-03-07-14-08-42.png)
-![](2021-03-07-14-08-55.png)
-![](2021-03-07-14-09-06.png)
+Original code<br>
+
+![](2021-03-07-14-08-42.png)<br>
+![](2021-03-07-14-08-55.png)<br>
+![](2021-03-07-14-09-06.png)<br>
+
 Refactored code
-![](2021-03-07-14-09-44.png)
-![](2021-03-07-14-09-53.png)
-![](2021-03-07-14-10-06.png)
+![](2021-03-07-14-09-44.png)<br>
+![](2021-03-07-14-09-53.png)<br>
+![](2021-03-07-14-10-06.png)<br>
 </p> 
 <p>3. change dis class benefits, to an aside to represent the side bar, also added null alt attributes to the decorative imgs on all 3 sections.<br>
-Original code
+Original code<br>
+
 ![](2021-03-07-14-13-26.png)
+
 Refactored code
+
 ![](2021-03-07-14-14-26.png)
+
 </p>
 <p>4. changed div class footer, to footer element<br>
-original code
+original code<br>
+
 ![](2021-03-07-14-16-45.png)
+
 refactored code
+
 ![](2021-03-07-14-17-11.png)
+
 </p>
 
 <p>5. fixed broken link for serach engine optimization, div was incorrectly labbeled as a class instead of an ID.<br>
-Original code
-![](2021-03-07-14-19-16.png)
-![](2021-03-07-14-19-40.png)
+Original code<br>
+
+![](2021-03-07-14-19-16.png)<br>
+
+![](2021-03-07-14-19-40.png)<br>
+
 Refactored code
-![](2021-03-07-14-20-15.png)
-![](2021-03-07-14-20-42.png)
+![](2021-03-07-14-20-15.png)<br>
+
+![](2021-03-07-14-20-42.png)<br>
+
 </p>
 <p>6. Split original CSS stylesheet into 3 new style sheets and remove duplicate code, to improve function and ease of interpertaion.
 
